@@ -1,0 +1,31 @@
+{
+musicOn: true
+VsyncOn: true
+effectsOn: true
+playerPosition: {
+	x: 400
+	y: 475
+}
+inventory: [
+	{
+		count: 10
+		stackedItem: {
+			name: Alma
+			spritePath: itemSprites/tile002.png
+			type: Food
+			description: Visszaállít 2 életpontot
+			durability: 1
+		}
+	}
+	{
+		count: 20
+		stackedItem: {
+			name: Szeder
+			spritePath: itemSprites/tile000.png
+			type: Food
+			description: Visszaállít 2 életpontot
+			durability: 1
+		}
+	}
+]
+}

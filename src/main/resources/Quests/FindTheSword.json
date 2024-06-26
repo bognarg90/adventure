@@ -1,0 +1,18 @@
+{
+  "questName": "Hol a kard?",
+  "questType": "elveszett",
+  "NPC": "Marci",
+  "location": "Marketplace",
+  "startText": "Nem lattad a kesem? Az elobb meg megvolt",
+  "endText": "Nagyon koszonom. Halam jeleul megtarthatod",
+  "description": "Nezz szet Marci kese utan.",
+  "reward": [
+    "Tolvajpenge",
+    "tile085.png",
+    50,
+    "Kicsit kopott...",
+    3
+  ],
+  "coordX": 666,
+  "coordY": 422
+}

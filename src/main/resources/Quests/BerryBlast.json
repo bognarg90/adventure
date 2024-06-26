@@ -1,0 +1,18 @@
+{
+  "questName": "Szeder szezon",
+  "questType": "collection",
+  "NPC": "Karcsi",
+  "location": "Marketplace",
+  "startText": "En csinalom a legjobb gyumolcstortat a kornyeken!",
+  "endText": "Koszonom ennyi eleg is. Ezt fogadd el kerlek",
+  "description": "Talalj 15 szedret Karcsinak",
+  "find": [
+    "Szeder",
+    15
+    ],
+  "reward": [
+    "Szedertorta",
+    "tile022.png",
+    "Restores 10 hearts."
+  ]
+}
